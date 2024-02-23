@@ -63,7 +63,7 @@ Each of your projects must have:
 - Readme description with screenshots.
 - Organized code.
 
-> :point_up:  Quality is more important than quantity, just two or three projects in enough if they are really good.
+> :point_up:  Quality is more important than quantity, just two or three projects is enough if they are really good.
 
 ## The Skills
 
